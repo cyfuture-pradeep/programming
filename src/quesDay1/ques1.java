@@ -1,3 +1,4 @@
+package quesDay1;
 import java.util.*;
 
 
